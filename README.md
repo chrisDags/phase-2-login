@@ -1,6 +1,7 @@
 # phase-2-login
 Phase 2 end assignment for Simplilearn
 
+Note: The table is prepopulated with two users in the DbInit class: foo (password: 123) and foo2 (password: 321)
 
 Link to exact instructions that our instructor told us to go by: https://github.com/timfox456/java-fsd/blob/main/projects/phase-2-project.pdf
 

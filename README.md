@@ -6,7 +6,7 @@ Link to exact instructions that our instructor told us to go by: https://github.
 
 Instructions:
 
-Project Objective
+Project Objective:
 - Create a sample login and registration application with using JSP+Servlets and hibernate.
 
 Important fields of this application:

@@ -6,10 +6,10 @@ Link to exact instructions that our instructor told us to go by: https://github.
 
 Instructions:
 
-* Project Objective
+Project Objective
 - Create a sample login and registration application with using JSP+Servlets and hibernate.
 
-*Important fields of this application:
+Important fields of this application:
 
-Module 1) User will register with the details
-Module 2) with the same database table user will get verified through login.
+- Module 1) User will register with the details
+- Module 2) with the same database table user will get verified through login.
